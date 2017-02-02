@@ -1,5 +1,6 @@
 # PYPPLE-preprocessor
-PYPPLE: a PYthon-based Pre-Processor, Line-oriented, Extensible
+
+## PYPPLE: a PYthon-based Pre-Processor, Line-oriented, Extensible
 
 Version 0.10 Alpha
 
